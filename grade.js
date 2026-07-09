@@ -1,6 +1,6 @@
 let grade = "A";
 
-switch(score){
+switch(grade){
     case "A":
         console.log("Very Good");
         break;
